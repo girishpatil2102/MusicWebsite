@@ -9,6 +9,7 @@ let gif = document.getElementById('gif');
 let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
+
 let Music = [
     {songName: "Bekhayali", filePath: "Music/1.mp3", coverPath: "images/cover.png"},
     {songName: "Heeriye", filePath: "Music/2.mp3", coverPath: "images/cover.png"},
